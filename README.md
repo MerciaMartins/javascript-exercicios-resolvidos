@@ -4,3 +4,6 @@ Bem-vindo à nossa coleção de exercícios resolvidos de JavaScript!
 - `ex7-soma-par-ou-impar.js`: Uma função que soma 5 a um número par e 8 a um número ímpar.
 - `ex8-ordena-decrescente.js`: Uma função que lê três inteiros diferentes e os mostra em ordem decrescente.
 - `ex9-calcula-peso-ideal.js`: Uma função que calcula o peso ideal com base na altura e no sexo.
+- `ex1-verifica-soma.js`: Uma função que lê três valores e verifica se a soma de A + B é menor que C.
+- `ex2-dados-casada.js`: Uma função que lê dados de uma pessoa e solicita o tempo de casada, se for mulher e casada.
+- `ex3-par-ou-impar.js`: Uma função que lê um número e informa se ele é par ou ímpar.
